@@ -1,0 +1,67 @@
+.card-body {
+    padding: 0;
+}
+
+.card-body .nav-pills .nav-link {
+    padding: 0.8rem 1rem;
+    border-radius: 0;
+}
+
+.accordion > .card:first-of-type {
+    border: 1px solid rgba(0, 0, 0, 0.08);
+}
+.content-group {
+    margin-bottom: 20px !important;
+}
+fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+fieldset {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    min-width: 0;
+}
+legend {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 20px;
+    font-size: 19.5px;
+    line-height: inherit;
+    color: #333333;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+.file-preview-thumbnails img {
+    width: 100%;
+}
+
+.file-preview {
+    padding: 0;
+    margin: 0;
+}
+
+.file-preview-thumbnails .file-actions {
+    display: none;
+}
+.file-thumbnail-footer{
+    display: none;
+}
+.file-preview-thumbnails img {
+    width: 100%;
+}
+
+.file-preview {
+    padding: 10px;
+}
+
+.file-preview-thumbnails .file-actions {
+    display: none;
+}
+.file-thumbnail-footer{
+    display: none;
+}
+
